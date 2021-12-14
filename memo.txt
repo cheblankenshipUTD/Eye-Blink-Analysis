@@ -1,0 +1,47 @@
+[キータ]
+https://qiita.com/mogamin/items/a65e2eaa4b27aa0a1c23
+(コンパイル)
+https://qiita.com/mm_sys/items/1fd3a50a930dac3db299
+https://ebi-works.com/python-desktop-app/
+
+
+
+[参考ソースのリンク]
+
+(Eye blink detection with OpenCV, Python, and dlib)
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+(詳細文献)
+http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
+
+(参考にしたソースコード)
+https://github.com/mogamin/eye_blink_detector
+
+
+
+[Mongo DB Access]
+https://cloud.mongodb.com/v2/5d2c31b4ff7a25a487c2bb5d#metrics/replicaSet/5d2c328a39ee1becf4071ada/explorer/desk_health_test/posts/find
+
+username: cnakamura336[a]gmail.com
+passwd  : che0912 or Grandmava-88
+
+
+[Demo data]
+(from AWS S3 data)
+
+
+
+[Web camera information & calculation]
+[Mac camera info]
+https://en.wikipedia.org/wiki/ISight
+(Facetime HD camera)
+rear-facing camera
+f2.2 - 2.4 aperture
+iSO 80-100 (in-door)
+ p
+最小焦点距離は約10cm (0.1 meter)
+CMOS active pixel sensor
+fixed-focus
+
+
+[Web Application Business models]
+https://www.boxuk.com/insight/monetizing-your-web-app-business-model-options/
